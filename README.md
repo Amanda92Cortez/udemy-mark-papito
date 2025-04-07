@@ -62,5 +62,6 @@ Pra fazer tratamento de faker, utilizar esse site "api"
 https://v9.fakerjs.dev/api/
 
 ************************************************************************
-
+Melhoria de link API no código
+yarn add dotenv -D
 ************************************************************************
