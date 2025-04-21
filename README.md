@@ -31,8 +31,7 @@ Pra fazer tratamento de faker, utilizar esse site "api" https://v9.fakerjs.dev/a
 
 ---
 
-` Curso: ` [Udemy - Playwright eXpress
-]("https://www.udemy.com/course/playwright-express/?couponCode=KEEPLEARNINGBR")
+` Curso: ` Udemy - Playwright eXpress
 
 ---
 
