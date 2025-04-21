@@ -29,6 +29,10 @@
 Construir um projeto de testes de ponta a ponta para aplicações web, automatizar testes de regressão com Playwright, preencher formulários automáticamente, boas práticas para implementação de testes automatizados, como validar o comportamento esperado, automação de ações que o usuário realiza em um navegador da Web, como testar aplicações simulando um ambiente real e as vantagens ao usar Typescript para testes automatizados.
 Pra fazer tratamento de faker, utilizar esse site "api" https://v9.fakerjs.dev/api/
 
+Curso realizada na plataforma Udemy.
+Site: [Playwright eXpress
+]("https://www.udemy.com/course/playwright-express/?couponCode=KEEPLEARNINGBR")
+
 ---
 
 # :computer: Ferramentas<a name="id02"></a>
